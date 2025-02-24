@@ -12,7 +12,7 @@ By Cheryl Clarke
 4. Click the codespace tab.
 5. Clcik create new codespace on main.
 
-## technolgies
+## technologies
 
 
 - Python
